@@ -3,7 +3,14 @@
 
 [Link to Looker Dashboard](https://lookerstudio.google.com/reporting/f0f6336a-4082-4f4c-a0c5-9d1dcaed6c3a)
 
-### Project Description
+## **Insight's Architects**
+* Ricky Suhanry
+* Angga Putra  H
+* Hilmi Atha Putra
+* Amir Mahmud
+* M. Sayyid A
+
+## Project Description
 
 This project aims to implement a basic ETL (Extract, Transform, Load) process for batch processing data. The goal is to extract data from a variety of sources, transform it into a desired format, and load it into a target destination.
 
